@@ -1,0 +1,2 @@
+﻿Import-Module C:\Users\mso.ARMADA\Documents\PowerShell\Script\Copy-UpdateFilesToBatchDirectory.ps1
+Copy-UpdateFilesToBatchDirectory -DvdDirectory C:\Temp\NAV2016\CU07 -BatchDirectory C:\Temp\NAV2016\CU07\Batch
